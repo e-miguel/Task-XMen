@@ -1,6 +1,6 @@
 # Project X-Men Deployment Script (GitHub)
 
-This repository contains a deployment script for Project X-Men, which automates the installation and configuration of the necessary components on an Amazon Linux EC2 instance to run the project.
+This repository contains a deployment script for Project X-Men, which automates the installation and configuration of the necessary components on an Amazon Linux EC2 instance to run the project. The web files are downloaded from GitHub.
 
 ## Prerequisites
 
@@ -39,18 +39,6 @@ The script will perform the following actions:
 8. Enable the `httpd` service to start automatically on system boot using `systemctl`.
 9. Start the `httpd` service.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contributing
 
 Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
-## Contact
-
-For any inquiries or further information, please contact the project team at projectxmen@example.com.
-
----
-
-Feel free to customize the README file according to your needs. Remember to update the contact information, license details, and any additional sections you deem necessary.
