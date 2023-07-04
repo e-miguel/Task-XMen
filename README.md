@@ -39,10 +39,6 @@ The script will perform the following actions:
 8. Enable the `httpd` service to start automatically on system boot using `systemctl`.
 9. Start the `httpd` service.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contributing
 
 Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
@@ -56,7 +52,7 @@ For any inquiries or further information, please contact me at e32cloud@gmail.co
 
 # Project X-Men Deployment Script V.2
 
-This repository contains a deployment script for the X-Men project, which automates the installation and configuration of the necessary components on an Amazon Linux EC2 instance to run the project.
+This repository contains a deployment script from GitHub for the X-Men project, which automates the installation and configuration of the necessary components on an Amazon Linux EC2 instance to run the project.
 
 ## Prerequisites
 
