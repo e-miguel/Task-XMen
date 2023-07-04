@@ -39,8 +39,6 @@ The script will perform the following actions:
 8. Enable the `httpd` service to start automatically on system boot using `systemctl`.
 9. Start the `httpd` service.
 
-Certainly! Here's an example README file for your GitHub repository:
-
 # X-Men Deployment Script (GitHub)
 
 This repository contains a deployment script for the X-Men project, which automates the installation and configuration of the necessary components on an Amazon Linux EC2 instance to run the project. The web files are downloaded from GitHub.
