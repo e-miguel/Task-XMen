@@ -39,6 +39,20 @@ The script will perform the following actions:
 8. Enable the `httpd` service to start automatically on system boot using `systemctl`.
 9. Start the `httpd` service.
 
+## Summary of Scripts
+
+- #!/bin/bash
+- sudo su
+- yum update -y
+- yum install -y httpd
+- cd /var/www/html
+- aws s3 sync s3://project-xmen /var/www/html
+- unzip xmen-main.zip
+- cp -r /var/www/html/xmen-main/* /var/www/html
+- rm -rf xmen-main.zip xmen-main
+- systemctl enable httpd 
+- systemctl start httpd
+
 ## Contributing
 
 Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
@@ -90,6 +104,21 @@ The script will perform the following actions:
 8. Remove the `xmen-main.zip` file and the `xmen-main` directory.
 9. Enable the `httpd` service to start automatically on system boot using `systemctl`.
 10. Start the `httpd` service.
+
+## Summary of Scripts
+
+- #!/bin/bash
+- sudo su
+- yum update -y
+- yum install -y httpd
+- cd /var/www/html
+- wget https://github.com/e-miguel/xmen/archive/refs/heads/main.zip
+- unzip main.zip
+- unzip xmen-main.zip
+- cp -r /var/www/html/xmen-main/* /var/www/html
+- rm -rf xmen-main.zip xmen-main
+- systemctl enable httpd 
+- systemctl start httpd
 
 ## Contributing
 
