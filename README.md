@@ -2,7 +2,7 @@
 
 ![Task 2 - Project X-Men - AOS](https://github.com/e-miguel/Task-XMen/assets/134418850/09d90b20-d516-4e6b-afda-f11b3f980c95)
 
-This repository contains a deployment script from Amazon S3 for Project X-Men, which automates the installation and configuration of the necessary components on an Amazon Linux EC2 instance to run the project.
+In this task, challenge your learning in hosting an HTML website on an EC2 instance and AWS services. This repository contains a deployment script for Task X-Men, which automates the installation and configuration of the necessary components on an Amazon Linux EC2 instance to run the project.
 
 ## Prerequisite
 
