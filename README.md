@@ -22,7 +22,9 @@ Before doing the Task, please make sure you have the following prerequisites in 
 2. Implement all the services mentioned in the reference architecture to ensure successful deployment.
 3. Utilize a launch template to create auto scaling groups for efficient resource management.
 4. Ensure that the website is accessible using your own domain name.
-5. 
+5. Ensure secure communication to the site by enabling HTTPS.
+6. Store the web files in either your S3 bucket or GitHub repository. Your deployment script should be able to download the files from the chosen location. Avoid using my script.
+7. Create a story in Medium to document your work. This will help you build your portfolio.
 
 ## Sample Scripts
 
