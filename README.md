@@ -19,7 +19,10 @@ Before doing the Task, please make sure you have the following prerequisites in 
 ## Task
 
 1. Deploy the provided HTML website on an EC2 instance using the attached reference architecture.
-2. 
+2. Implement all the services mentioned in the reference architecture to ensure successful deployment.
+3. Utilize a launch template to create auto scaling groups for efficient resource management.
+4. Ensure that the website is accessible using your own domain name.
+5. 
 
 ## Sample Scripts
 
