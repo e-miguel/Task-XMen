@@ -4,7 +4,7 @@
 
 This repository contains a deployment script from Amazon S3 for Project X-Men, which automates the installation and configuration of the necessary components on an Amazon Linux EC2 instance to run the project.
 
-## Prerequisites
+## Prerequisite
 
 Before running the script, make sure you have the following prerequisites in place:
 
