@@ -6,7 +6,7 @@ In this task, challenge your learning in hosting an HTML website on an EC2 insta
 
 ## Prerequisite
 
-Before running the script, make sure you have the following prerequisites in place:
+Before doing the Task, please make sure you have the following prerequisites in place:
 
 - Complete my previous industry projects and task to build your knowledge, skills, and troubleshooting.
 - Administrative access to the EC2 instance
@@ -19,15 +19,15 @@ Before running the script, make sure you have the following prerequisites in pla
 ## Task
 
 1. Deploy the provided HTML website on an EC2 instance using the attached reference architecture.
+2. 
 
-## Summary of Scripts
+## Sample Scripts
 
-- #!/bin/bash
 - sudo su
 - yum update -y
 - yum install -y httpd
 - cd /var/www/html
-- aws s3 sync s3://project-xmen /var/www/html
+- wget 
 - unzip xmen-main.zip
 - cp -r /var/www/html/xmen-main/* /var/www/html
 - rm -rf xmen-main.zip xmen-main
