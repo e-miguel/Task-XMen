@@ -14,7 +14,7 @@ Before running the script, make sure you have the following prerequisites in pla
 
 # Reference Architecture
 
-![Task 2 - Project X-Men - AOS](https://github.com/e-miguel/Task-XMen/assets/134418850/f2efc3fe-4c55-470f-a0ca-f292bd81e06a)
+![Task 2 - Project X-Men - AOS (1)](https://github.com/e-miguel/Task-XMen/assets/134418850/4544374f-885f-4347-9526-58cb68cadf69)
 
 ## Task
 
