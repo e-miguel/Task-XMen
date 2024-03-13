@@ -1,4 +1,4 @@
-# Project X-Men Deployment Script V.1
+# Hosting an HTML Website on an EC2 Instance
 
 This repository contains a deployment script from Amazon S3 for Project X-Men, which automates the installation and configuration of the necessary components on an Amazon Linux EC2 instance to run the project.
 
