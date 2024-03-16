@@ -39,7 +39,7 @@ Before doing the Task, please make sure you have the following prerequisites in 
 - systemctl enable httpd 
 - systemctl start httpd
 
-# Public and Private Subnets in their respective AZs
+### Public and Private Subnets in their respective AZs
 
 ![image](https://github.com/e-miguel/Task-XMen/assets/134418850/921e4d01-d258-4b4f-9f56-b44885fd25ce)
 
