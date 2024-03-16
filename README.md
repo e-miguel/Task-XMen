@@ -14,7 +14,7 @@ Before doing the Task, please make sure you have the following prerequisites in 
 
 # Reference Architecture
 
-![Task 2 - Project X-Men - AOS](https://github.com/e-miguel/Task-XMen/assets/134418850/ce5486fd-4ffd-441f-a4d9-eccfc50d85b8)
+![Task 2 - Project X-Men - AOS](https://github.com/e-miguel/Task-XMen/assets/134418850/da80cb0b-c6a2-455e-8915-284001d6e673)
 
 ## Task
 
