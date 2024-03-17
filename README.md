@@ -32,10 +32,11 @@ Before doing the Task, please make sure you have the following prerequisites in 
 - yum update -y
 - yum install -y httpd
 - cd /var/www/html
-- wget 
-- unzip xmen-main.zip
+- wget https://github.com/e-miguel/Task-XMen/archive/refs/heads/main.zip
+- unzip main.zip
+- unzip Task-XMen-main/xmen-main.zip
 - cp -r /var/www/html/xmen-main/* /var/www/html
-- rm -rf xmen-main.zip xmen-main
+- rm -rf main.zip Task-XMen-main
 - systemctl enable httpd 
 - systemctl start httpd
 
