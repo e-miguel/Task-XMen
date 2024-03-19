@@ -32,7 +32,7 @@ Before doing the Task, please make sure you have the following prerequisites in 
 - yum update -y
 - yum install -y httpd
 - cd /var/www/html
-- wget https://github.com/e-miguel/magneto/raw/main/xmen-main.zip
+- wget https://github.com/e-miguel/Task-XMen/raw/main/xmen-main.zip
 - unzip xmen-main.zip
 - cp -r /var/www/html/xmen-main/* /var/www/html
 - rm -rf xmen-main.zip xmen-main
