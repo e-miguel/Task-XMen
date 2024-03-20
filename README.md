@@ -41,6 +41,9 @@ Before doing the Task, please make sure you have the following prerequisites in 
 
 ### Public Subnets in their respective AZs
 
+![image](https://github.com/e-miguel/Task-XMen/assets/134418850/9f663cc2-25fe-4fad-8e35-c0a21f60e71a)
+
+![image](https://github.com/e-miguel/Task-XMen/assets/134418850/7895a728-2192-4cc2-b884-13fb9e43053d)
 
 
 ## Contributing
