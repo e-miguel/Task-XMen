@@ -49,6 +49,7 @@ Before doing the Task, please make sure you have the following prerequisites in 
 
 ![image](https://github.com/e-miguel/Task-XMen/assets/134418850/def43c36-ce4e-4ff9-bf6d-b01d27459c07)
 
+![image](https://github.com/e-miguel/Task-XMen/assets/134418850/3e72a9d3-959b-4cba-8681-82ed8a1823fe)
 
 
 ## Contributing
