@@ -51,6 +51,8 @@ Before doing the Task, please make sure you have the following prerequisites in 
 
 ![image](https://github.com/e-miguel/Task-XMen/assets/134418850/3e72a9d3-959b-4cba-8681-82ed8a1823fe)
 
+![image](https://github.com/e-miguel/Task-XMen/assets/134418850/cdce5f5c-fd64-4c3d-9740-64e989c25c57)
+
 
 ## Contributing
 
