@@ -1,4 +1,4 @@
-# Hosting an HTML Website on an EC2 Instance
+## Hosting an HTML Website on an EC2 Instance
 
 
 
@@ -16,7 +16,7 @@ Before doing the Task, please make sure you have the following prerequisites in 
 
 ![Task 2 - Project X-Men - AOS](https://github.com/e-miguel/Task-XMen/assets/134418850/3e573390-6cc1-461f-8f30-6a32a058729f)
 
-## Task
+### Task
 
 1. Deploy the provided HTML website on an EC2 instance using the attached reference architecture.
 2. Implement all the services mentioned in the reference architecture to ensure successful deployment.
@@ -26,7 +26,7 @@ Before doing the Task, please make sure you have the following prerequisites in 
 6. Store the web files in either your S3 bucket or GitHub repository. Your deployment script should be able to download the files from the chosen location. **Avoid using my script.**
 7. Create a story in Medium to document your work. This will help you build your portfolio.
 
-## Deployment Script
+### Deployment Script
 
 - #!/bin/bash
 - yum update -y
@@ -39,7 +39,7 @@ Before doing the Task, please make sure you have the following prerequisites in 
 - systemctl enable httpd
 - systemctl start httpd
 
-## Public Subnets in their respective AZs
+### Public Subnets in their respective AZs
 
 ![image](https://github.com/e-miguel/Task-XMen/assets/134418850/9f663cc2-25fe-4fad-8e35-c0a21f60e71a)
 
@@ -54,7 +54,7 @@ Before doing the Task, please make sure you have the following prerequisites in 
 ![image](https://github.com/e-miguel/Task-XMen/assets/134418850/cdce5f5c-fd64-4c3d-9740-64e989c25c57)
 
 
-## Contributing
+### Contributing
 
 Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
