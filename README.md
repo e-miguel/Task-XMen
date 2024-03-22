@@ -47,12 +47,6 @@ Before doing the Task, please make sure you have the following prerequisites in 
 
 ![image](https://github.com/e-miguel/Task-XMen/assets/134418850/9f663cc2-25fe-4fad-8e35-c0a21f60e71a)
 
-![image](https://github.com/e-miguel/Task-XMen/assets/134418850/f08de90b-291b-4855-849d-d775219703a6)
-
-![image](https://github.com/e-miguel/Task-XMen/assets/134418850/def43c36-ce4e-4ff9-bf6d-b01d27459c07)
-
-
-
 ### HTML Website
 
 This is the HTML website deployed on an EC2 instance using the attached reference architecture. I implemented all the resources outlined in the task and reference architecture.
@@ -61,12 +55,16 @@ This is the HTML website deployed on an EC2 instance using the attached referenc
 
 ![image](https://github.com/e-miguel/Task-XMen/assets/134418850/7895a728-2192-4cc2-b884-13fb9e43053d)
 
+Some of the resources utilized during the deployment of the web site.
 
+![image](https://github.com/e-miguel/Task-XMen/assets/134418850/f08de90b-291b-4855-849d-d775219703a6)
+
+![image](https://github.com/e-miguel/Task-XMen/assets/134418850/def43c36-ce4e-4ff9-bf6d-b01d27459c07)
 
 ![image](https://github.com/e-miguel/Task-XMen/assets/134418850/cdce5f5c-fd64-4c3d-9740-64e989c25c57)
 
 ### Conlusions
 
-Congratulations for successfully completing this task! Stay tuned for more Cloud Engineering and DevOps tutorial. Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+Congratulations for successfully completing this industry task! Stay tuned for more Cloud Engineering and DevOps tutorial. Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
 ---
