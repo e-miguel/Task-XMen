@@ -12,7 +12,7 @@ Before doing the Task, please make sure you have the following prerequisites in 
 - Administrative access to the EC2 instance
 - AWS CLI configured with appropriate credentials
 
-# Reference Architecture
+## Reference Architecture
 
 ![Task 2 - Project X-Men - AOS](https://github.com/e-miguel/Task-XMen/assets/134418850/3e573390-6cc1-461f-8f30-6a32a058729f)
 
@@ -39,7 +39,7 @@ Before doing the Task, please make sure you have the following prerequisites in 
 - systemctl enable httpd
 - systemctl start httpd
 
-### Public Subnets in their respective AZs
+## Public Subnets in their respective AZs
 
 ![image](https://github.com/e-miguel/Task-XMen/assets/134418850/9f663cc2-25fe-4fad-8e35-c0a21f60e71a)
 
