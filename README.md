@@ -45,8 +45,6 @@ Before doing the Task, please make sure you have the following prerequisites in 
 2. Include the URL of the deployed site in your online publishing platform.
 3. Share the deployment script that you used for hosting the site.
 
-![image](https://github.com/e-miguel/Task-XMen/assets/134418850/9f663cc2-25fe-4fad-8e35-c0a21f60e71a)
-
 ### HTML Website
 
 This is the HTML website deployed on an EC2 instance using the attached reference architecture. I implemented all the resources outlined in the task and reference architecture.
