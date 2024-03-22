@@ -4,7 +4,7 @@
 
 In this task, challenge your learning in hosting an HTML website on an EC2 instance and AWS services. This repository contains a deployment script for Task X-Men, which automates the installation and configuration of the necessary components on an Amazon Linux EC2 instance to run the project.
 
-## Requirements
+### Requirements
 
 Before doing the Task, please make sure you have the following prerequisites in place:
 
@@ -12,7 +12,7 @@ Before doing the Task, please make sure you have the following prerequisites in 
 - Administrative access to the EC2 instance
 - AWS CLI configured with appropriate credentials
 
-## Reference Architecture
+### Reference Architecture
 
 ![Task 2 - Project X-Men - AOS](https://github.com/e-miguel/Task-XMen/assets/134418850/3e573390-6cc1-461f-8f30-6a32a058729f)
 
