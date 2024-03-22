@@ -55,7 +55,9 @@ This is the HTML website deployed on an EC2 instance using the attached referenc
 
 ![image](https://github.com/e-miguel/Task-XMen/assets/134418850/7895a728-2192-4cc2-b884-13fb9e43053d)
 
-Some of the resources utilized during the deployment of the web site.
+### Resources
+
+Some of the resources I utilized during the deployment of the web site such as EC2 Instance, Application Load Balancer, Auto Scaling Group, Launch Template, and more.
 
 ![image](https://github.com/e-miguel/Task-XMen/assets/134418850/f08de90b-291b-4855-849d-d775219703a6)
 
