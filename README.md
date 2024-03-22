@@ -4,7 +4,7 @@
 
 In this task, challenge your learning in hosting an HTML website on an EC2 instance and AWS services. This repository contains a deployment script for Task X-Men, which automates the installation and configuration of the necessary components on an Amazon Linux EC2 instance to run the project.
 
-## Prerequisite
+## Requirements
 
 Before doing the Task, please make sure you have the following prerequisites in place:
 
@@ -23,10 +23,10 @@ Before doing the Task, please make sure you have the following prerequisites in 
 3. Utilize a launch template to create auto scaling groups for efficient resource management.
 4. Ensure that the website is accessible using your own domain name.
 5. Ensure secure communication to the site by enabling HTTPS.
-6. Store the web files in either your S3 bucket or GitHub repository. Your deployment script should be able to download the files from the chosen location. Avoid using my script.
+6. Store the web files in either your S3 bucket or GitHub repository. Your deployment script should be able to download the files from the chosen location. **Avoid using my script.**
 7. Create a story in Medium to document your work. This will help you build your portfolio.
 
-## Script
+## Deployment Script
 
 - #!/bin/bash
 - yum update -y
