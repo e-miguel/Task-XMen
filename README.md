@@ -24,7 +24,7 @@ Before doing the Task, please make sure you have the following prerequisites in 
 4. Ensure that the website is accessible using your own domain name.
 5. Ensure secure communication to the site by enabling HTTPS.
 6. Store the web files in either your S3 bucket or GitHub repository. Your deployment script should be able to download the files from the chosen location. **Avoid using my script.**
-7. Create a story in Medium to document your work. This will help you build your portfolio.
+7. Publish your completed task on your preferred online publsihing platform such as Git Hub or Medium.
 
 ### Deployment Script
 
@@ -39,7 +39,11 @@ Before doing the Task, please make sure you have the following prerequisites in 
 - systemctl enable httpd
 - systemctl start httpd
 
-### Public Subnets in their respective AZs
+### Acceptance Criteria
+
+1. Provide a screenshot of the deployed site, demonstrating that it is fully secured with HTTPS.
+2. Include the URL of the deployed site in your online publishing platform.
+3. Share the deployment script that you used for hosting the site.
 
 ![image](https://github.com/e-miguel/Task-XMen/assets/134418850/9f663cc2-25fe-4fad-8e35-c0a21f60e71a)
 
@@ -54,12 +58,14 @@ Before doing the Task, please make sure you have the following prerequisites in 
 ![image](https://github.com/e-miguel/Task-XMen/assets/134418850/cdce5f5c-fd64-4c3d-9740-64e989c25c57)
 
 
-### Contributing
+### HTML Website
 
-Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+- This is the HTML website deployed on an EC2 instance using the attached reference architecture. I implemented all the resources outlined in the reference architecture.
 
-## Contact
 
-For any inquiries or further information, please contact me at e32cloud@gmail.com.
+
+### Conlusions
+
+Congratulations for successfully completing this task! Stay tuned for more Cloud Engineering and DevOps tutorial. Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
 ---
