@@ -25,6 +25,7 @@ Before doing the Task, please make sure you have the following prerequisites in 
 5. Ensure secure communication to the site by enabling HTTPS.
 6. Store the web files in either your S3 bucket or GitHub repository. Your deployment script should be able to download the files from the chosen location. **Avoid using my script.**
 7. Publish your completed task on your preferred online publsihing platform such as Git Hub or Medium.
+8. Upon completion you can destroy your resources to avoid further costs.
 
 ### Deployment Script
 
