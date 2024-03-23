@@ -63,7 +63,7 @@ Some of the resources I utilized during the deployment of the web site such as E
 
 ![image](https://github.com/e-miguel/Task-XMen/assets/134418850/cdce5f5c-fd64-4c3d-9740-64e989c25c57)
 
-### Conlusions
+### Conclusions
 
 Congratulations for successfully completing this industry task! Stay tuned for more Cloud Engineering and DevOps tutorial. Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
