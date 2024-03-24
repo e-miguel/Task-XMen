@@ -10,10 +10,6 @@ Before doing the Task, please make sure you have the following prerequisites in 
 - Administrative access to the EC2 instance
 - AWS CLI configured with appropriate credentials
 
-### Reference Architecture
-
-![Task 2 - Project X-Men - AOS](https://github.com/e-miguel/Task-XMen/assets/134418850/3e573390-6cc1-461f-8f30-6a32a058729f)
-
 ### Instructions
 
 1. Deploy the provided HTML website on an EC2 instance using the attached reference architecture.
@@ -27,7 +23,11 @@ Before doing the Task, please make sure you have the following prerequisites in 
 
 ### Web Files
 
-Link https://github.com/e-miguel/Task-XMen/raw/main/xmen-main.zip 
+Link https://github.com/e-miguel/Task-XMen/raw/main/xmen-main.zip
+
+### Reference Architecture
+
+![Task 2 - Project X-Men - AOS](https://github.com/e-miguel/Task-XMen/assets/134418850/3e573390-6cc1-461f-8f30-6a32a058729f)
 
 ### Deployment Script
 
