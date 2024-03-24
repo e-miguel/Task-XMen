@@ -1,7 +1,5 @@
 ## Hosting an HTML Website on an EC2 Instance
 
-
-
 The second task, challenge your learning in hosting an HTML website on an EC2 instance and AWS services. This repository contains a deployment script for Task X-Men, which automates the installation and configuration of the necessary components on an Amazon Linux EC2 instance to run the project.
 
 ### Requirements
@@ -16,7 +14,7 @@ Before doing the Task, please make sure you have the following prerequisites in 
 
 ![Task 2 - Project X-Men - AOS](https://github.com/e-miguel/Task-XMen/assets/134418850/3e573390-6cc1-461f-8f30-6a32a058729f)
 
-### Task
+### Instructions
 
 1. Deploy the provided HTML website on an EC2 instance using the attached reference architecture.
 2. Implement all the services mentioned in the reference architecture to ensure successful deployment.
@@ -26,6 +24,10 @@ Before doing the Task, please make sure you have the following prerequisites in 
 6. Store the web files in either your S3 bucket or GitHub repository. Your deployment script should be able to download the files from the chosen location. **Avoid using my script.**
 7. Publish your completed task on your preferred online publsihing platform such as Git Hub or Medium.
 8. Upon completion you can destroy your resources to avoid further costs.
+
+### Web Files
+
+- Link 
 
 ### Deployment Script
 
