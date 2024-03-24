@@ -4,7 +4,7 @@ The second task, challenge your learning in hosting an HTML website on an EC2 in
 
 ### Requirements
 
-Before doing the Task, please make sure you have the following prerequisites in place:
+Before doing this task, please make sure you have the following prerequisites in place:
 
 - Complete my previous industry projects and task to build your knowledge, skills, and troubleshooting.
 - Administrative access to the EC2 instance
